@@ -26,15 +26,7 @@ function Review() {
     })
   }
 
-  // useEffect(() => {
-  //   const lastIndex = people.length - 1
-  //   if (index < 0) {
-  //     setIndex(lastIndex)
-  //   }
-  //   if (index > lastIndex) {
-  //     setIndex(0)
-  //   }
-  // }, [index, people])
+
 
   useEffect(() => {
     let slider = setInterval(() => {
