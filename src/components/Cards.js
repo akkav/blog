@@ -14,13 +14,13 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/react.webp'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
+              text='React is an open-source, front end, JavaScript library.'
               label='React'
               path='/products'
             />
             <CardItem
               src='images/flutter.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
+              text='Flutter is a google UI toolkit to create beautyfull UI'
               label='Flutter'
               path='/products'
             />
@@ -28,19 +28,19 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/html.jpg'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              text='HTML5 is a markup language used for structuring and presenting content'
               label='HTML'
               path='/products'
             />
             <CardItem
               src='images/node js.png'
-              text='Experience Football on Top of the Himilayan Mountains'
+              text='Node.js is an open-source, cross-platform, back-end JavaScript'
               label='nodeJS'
               path='/products'
             />
             <CardItem
               src='images/mongo.png'
-              text='Ride through the Sahara Desert on a guided camel tour'
+              text='MongoDB is a source-available cross-platform document-oriented.'
               label='MongoDB'
               path='/products'
             />

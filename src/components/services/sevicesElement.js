@@ -7,6 +7,7 @@ justify-content: center;
 align-items:center;
 background: #010606;
 border-radius: 10px;
+margin-bottom: 50px;
 
 @media screen and (max-width: 768px){
     height: 1100px;
@@ -28,11 +29,13 @@ padding: 0 20px;
 
 @media screen and (max-width:1000px){
     grid-template-columns:1fr 1fr;
+    width:950px;
 }
 
 @media screen and (max-width:768px){
     grid-template-columns:1fr;
     padding:0 20px;
+    width:600px;
 }
 `;
 
